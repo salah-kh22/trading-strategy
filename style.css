@@ -1,0 +1,30 @@
+html , body{
+   background: url(marga-santoso-OmPqCwX422Y-unsplash.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+h1{
+	color: #FCFBFB;
+}
+hr{
+	color: #FCFBFB;
+	max-width: 80px;
+	margin: 20px auto;
+    border: 2px solid #FCFBFB;
+    opacity: 1;  
+}
+.buffer{
+    height: 80px;
+}
+h1{
+	font-family: 'Lato', cursive;
+;
+}
+.btn-light{
+	font-family: 'Lato', sans-serif;
+
+}
